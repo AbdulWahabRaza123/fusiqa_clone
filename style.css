@@ -81,3 +81,11 @@
   height: 50px;
   border-radius: 13px;
 }
+@media only screen and (max-width: 653px) {
+  .section1_text {
+    font-size: 67px;
+  }
+  .section1_image {
+    display: none;
+  }
+}
